@@ -1,5 +1,9 @@
 # [影视]
 
+## MJLXL接口
+https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/
+
+
 ## 1. 海阔视界
 * 海阔视界｜APP
   + https://www.lanzoux.com/u/GoldRiver 
