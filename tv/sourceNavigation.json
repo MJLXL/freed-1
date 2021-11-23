@@ -580,6 +580,21 @@
       "webPlus": {}
     },
     {
+      "name": "4K",
+      "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/34K.txt",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "港澳台",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
       "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/4gangaotai.txt",
@@ -598,6 +613,21 @@
       "name": "韩国女团",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
       "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/5hanguonvtuan.txt",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "轮播电影",
+      "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/6lunbodianying.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
