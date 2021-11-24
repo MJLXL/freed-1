@@ -3,7 +3,7 @@
     {
       "name": "IPTV",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2553910106.webp",
-      "url": "https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV/IPTV.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV/IPTV.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -18,7 +18,7 @@
     {
       "name": "央视直播(Web)",
       "pic": "https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1504516146368634/img234X132.jpg",
-      "url": "https://tv.cctv.com/live/",
+      "webUrl": "https://tv.cctv.com/live/",
       "type": "web",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -34,7 +34,7 @@
     {
       "name": "企鹅电竞一起看(Web)",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
-      "url": "https://egame.qq.com/livelist?layoutid=2000000110",
+      "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110",
       "type": "web",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -48,7 +48,7 @@
     {
       "name": "世界电视",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/mytv2.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/mytv2.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -63,7 +63,7 @@
     {
       "name": "世界电视2",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/mytv.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/mytv.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -78,7 +78,7 @@
     {
       "name": "虎牙王者荣耀(Web)",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
-      "url": "https://m.huya.com/g/2336",
+      "webUrl": "https://m.huya.com/g/2336",
       "type": "web",
       "subTitle": "",
       "click": true,
@@ -92,7 +92,7 @@
     {
       "name": "哔哩哔哩一起看(Web)",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
-      "url": "https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
+      "webUrl": "https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
       "type": "web",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -108,7 +108,7 @@
     {
       "name": "爱奇艺(Web)",
       "pic": "https://www.iqiyipic.com/common/fix/h5-aura/imgLogo-s.png",
-      "url": "https://www.iqiyi.com",
+      "webUrl": "https://www.iqiyi.com",
       "type": "web",
       "subTitle": "",
       "click": true,
@@ -122,7 +122,7 @@
     {
       "name": "优酷(Web)",
       "pic": "https://img.alicdn.com/tfs/TB1WeJ9Xrj1gK0jSZFuXXcrHpXa-195-195.png",
-      "url": "https://www.youku.com",
+      "webUrl": "https://www.youku.com",
       "type": "web",
       "subTitle": "",
       "click": true,
@@ -136,7 +136,7 @@
     {
       "name": "腾讯视频(Web)",
       "pic": "https://vfiles.gtimg.cn/vupload/20210415/6407271618491171592.png?max_age=7776000",
-      "url": "https://v.qq.com",
+      "webUrl": "https://v.qq.com",
       "type": "web",
       "subTitle": "",
       "click": true,
@@ -150,7 +150,7 @@
     {
       "name": "芒果视频(Web)",
       "pic": "https://www.mgtv.com/favicon.ico",
-      "url": "https://www.mgtv.com",
+      "webUrl": "https://www.mgtv.com",
       "type": "web",
       "subTitle": "",
       "click": true,
@@ -164,7 +164,7 @@
     {
       "name": "咪咕视频(Web)",
       "pic": "https://m.miguvideo.com/favicon.ico",
-      "url": "https://m.miguvideo.com/mgs/msite/prd/index.html",
+      "webUrl": "https://m.miguvideo.com/mgs/msite/prd/index.html",
       "type": "web",
       "subTitle": "",
       "click": true,
@@ -178,7 +178,7 @@
     {
       "name": "西瓜视频(Web)",
       "pic": "https://s3.pstatp.com/toutiao/xigua_cdn/ixigua.ico",
-      "url": "https://www.ixigua.com/cinema/filter/quanbu/",
+      "webUrl": "https://www.ixigua.com/cinema/filter/quanbu/",
       "type": "web",
       "subTitle": "",
       "click": true,
@@ -192,7 +192,7 @@
     {
       "name": "骚火影视(Web)",
       "pic": "https://saohuotv.com/favicon.ico",
-      "url": "https://saohuotv.com/",
+      "webUrl": "https://saohuotv.com/",
       "type": "web",
       "subTitle": "",
       "click": true,
@@ -206,7 +206,7 @@
     {
       "name": "海贼王1-200",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B1-200.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B1-200.txt",
       "type": "txt",
       "subTitle": "海贼王系列",
       "click": true,
@@ -221,7 +221,7 @@
     {
       "name": "海贼王201-400",
       "pic": "https://img2.doubanio.com/view/photo/l/public/p2621315692.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B201-400.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B201-400.txt",
       "type": "txt",
       "subTitle": "海贼王系列",
       "click": true,
@@ -236,7 +236,7 @@
     {
       "name": "海贼王401-600",
       "pic": "https://img3.doubanio.com/view/photo/l/public/p2621316330.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B401-600.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B401-600.txt",
       "type": "txt",
       "subTitle": "海贼王系列",
       "click": true,
@@ -251,7 +251,7 @@
     {
       "name": "海贼王601-800",
       "pic": "https://img2.doubanio.com/view/photo/l/public/p2621316381.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B601-800.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B601-800.txt",
       "type": "txt",
       "subTitle": "海贼王系列",
       "click": true,
@@ -266,7 +266,22 @@
     {
       "name": "海贼王801-980",
       "pic": "https://img2.doubanio.com/view/photo/l/public/p2621453172.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B801-980.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B801-980.txt",
+      "type": "txt",
+      "subTitle": "海贼王系列",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "海贼王981-1024(2021年10月19日更新至995)",
+      "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/FreeD@master/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B981-1024.txt",
       "type": "txt",
       "subTitle": "海贼王系列",
       "click": true,
@@ -281,7 +296,7 @@
     {
       "name": "权游全系列",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2553910106.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%E7%B3%BB%E5%88%97.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%E7%B3%BB%E5%88%97.txt",
       "type": "txt",
       "subTitle": "漫威系列电影整理中",
       "click": true,
@@ -296,7 +311,7 @@
     {
       "name": "漫威系列",
       "pic": "https://img1.doubanio.com/view/photo/l/public/p1679995879.webp",
-      "url": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/tv/%E6%BC%AB%E5%A8%81%E7%B3%BB%E5%88%97.json",
+      "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/tv/%E6%BC%AB%E5%A8%81%E7%B3%BB%E5%88%97.json",
       "type": "gitJson",
       "subTitle": "漫威系列电影整理中",
       "click": true,
@@ -312,7 +327,7 @@
     {
       "name": "速度与激情系列",
       "pic": "https://img1.doubanio.com/view/photo/l/public/p2564987097.webp",
-      "url": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/tv/%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%BF%80%E6%83%85%E7%B3%BB%E5%88%97.json",
+      "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/tv/%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%BF%80%E6%83%85%E7%B3%BB%E5%88%97.json",
       "type": "gitJson",
       "subTitle": "速度与激情系列电影整理中",
       "click": true,
@@ -328,7 +343,7 @@
     {
       "name": "直播",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -344,7 +359,7 @@
     {
       "name": "(新增)稳定轮播*荐*",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/douyu.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/douyu.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": false,
@@ -360,7 +375,7 @@
     {
       "name": "(新增)hy电影(选IJK解码)",
       "pic": "https://tva1.sinaimg.cn/large/a15b4afegy1fmvjekvk6yj21hc0u0h7x.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/电影轮播.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/电影轮播.txt",
       "type": "txt",
       "subTitle": "",
       "click": false,
@@ -376,7 +391,7 @@
     {
       "name": "(新增)hy电视(选IJK解码)",
       "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxkc6qp2sj31hc0u0k1p.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/电视轮播.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/电视轮播.txt",
       "type": "txt",
       "subTitle": "",
       "click": false,
@@ -392,7 +407,7 @@
     {
       "name": "(新增)hy综艺(选IJK解码)",
       "pic": "https://tva4.sinaimg.cn/large/a15b4afely1fnt9plhh8oj21hc0u0dxy.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/综艺轮播.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/综艺轮播.txt",
       "type": "txt",
       "subTitle": "",
       "click": false,
@@ -408,7 +423,7 @@
     {
       "name": "yk(新增/IJK解码)",
       "pic": "https://tva1.sinaimg.cn/large/a15b4afely1fmvj6ly1yqj21hc0u00vv.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/youku.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/youku.m3u",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": false,
@@ -424,7 +439,7 @@
     {
       "name": "央卫(更新:20210205)",
       "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1fodqgoyhkrj31hc0u0khb.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/live.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/live.m3u",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": false,
@@ -440,7 +455,7 @@
     {
       "name": "iHOT系列",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/ihot.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/ihot.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": false,
@@ -456,7 +471,7 @@
     {
       "name": "YY轮播(选IKJ解码)",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/yy.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/yy.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": false,
@@ -472,7 +487,7 @@
     {
       "name": "CIBN",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/cibn.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/cibn.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": false,
@@ -488,7 +503,7 @@
     {
       "name": "newtv",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/newtv.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/newtv.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": false,
@@ -504,7 +519,7 @@
     {
       "name": "台湾台",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/taiwan.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/taiwan.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": false,
@@ -520,7 +535,7 @@
     {
       "name": "测试台",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/test2.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/test2.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": false,
@@ -536,7 +551,7 @@
     {
       "name": "zhanqi",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/zhanqi.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/zhanqi.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": false,
@@ -552,7 +567,7 @@
     {
       "name": "CCTV",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/1CCTV.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/1CCTV.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -567,7 +582,7 @@
     {
       "name": "卫视",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/2weishi.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/2weishi.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -582,7 +597,7 @@
     {
       "name": "4K",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/34K.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/34K.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -597,7 +612,7 @@
     {
       "name": "港澳台",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/4gangaotai.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/4gangaotai.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -612,7 +627,7 @@
     {
       "name": "韩国女团",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/5hanguonvtuan.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/5hanguonvtuan.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -627,7 +642,7 @@
     {
       "name": "轮播电影",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/6lunbodianying.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/6lunbodianying.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -642,7 +657,7 @@
     {
       "name": "NewTV",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/7NewTV.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/7NewTV.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -657,7 +672,7 @@
     {
       "name": "iHOT",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/8IHOT.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/8IHOT.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -672,7 +687,7 @@
     {
       "name": "少儿",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/9shaoer.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/9shaoer.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -687,7 +702,7 @@
     {
       "name": "音乐",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/11yinyue.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/11yinyue.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -702,7 +717,7 @@
     {
       "name": "体育频道",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/12tiyupindao.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/12tiyupindao.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -717,7 +732,7 @@
     {
       "name": "国外电视",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "url": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/13waiguotai.txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/MJLXL/freed-1@latest/tv/13waiguotai.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
