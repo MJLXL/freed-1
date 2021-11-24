@@ -1,5 +1,7 @@
 {
-"spider":"https://cdn.jsdelivr.net/gh/MJLXL/FreeD@master/mao/jar/custom_spider.jar?raw=true",
+
+"wallpaper": "https://raw.githubusercontent.com/Tangsan99999/Public/main/wallpapertip_hd-stock-wallpapers_143866.jpg",
+"spider":"https://cdn.jsdelivr.net/gh/MJLXL/FreeD@master/mao/jar/custom_spider.jar",
 "sites":[
 {"key":"csp_Aidi","name":"@爱迪","type":3,"api":"csp_Aidi","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Enlienli","name":"@嗯哩嗯哩","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":0,"filterable":1},
