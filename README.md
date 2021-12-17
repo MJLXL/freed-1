@@ -8,19 +8,22 @@ https://cdn.jsdelivr.net/gh/MJLXL/freed-1@master/tv/
 * 海阔视界｜APP
   + https://www.lanzoux.com/u/GoldRiver 
   + https://www.lanzoui.com/u/GoldRiver
-* 海阔视界｜小程序：道长仓库Pro
+* [海阔视界纯新人上手使用指南（保姆级）](https://www.bilibili.com/video/BV1YN411Q7Ho)
+* 海阔视界｜小程序：
 
-      https://paste.yuchen.tech/10795
-* 海阔视界｜小程序：香情影视
+  设置 > 剪贴板口令导入 > 贴上 > ok
+  1. 道长仓库Pro
 
-      香情影视￥home_rule_url￥http://www.28url.cn/yx3aqu
+          https://cmd.im/i6uk
+
+  2. 香情影视
+  
+          https://cmd.im/6ddt
 
 ## 2. 猫影视TV
 * 猫影视TV｜APP
-  + https://github.com//Tangsan99999/Public
   + https://github.com/catvod/CatVodTVSpider
 * 猫影视TV｜接口相关
-  + https://github.com/Tangsan99999/Public/blob/main/readme.md
   + https://github.com/catvod/CatVodTVSpider/tree/master/jar
   + https://github.com/catvod/CatVodTVSpider/blob/master/XPath.md
   + https://catvod.github.io/CatVodTVJsonEditor/
@@ -53,21 +56,28 @@ ___
 ## 1. 阅读
 * 阅读｜APP
   + https://github.com/gedoor/legado/releases/
-* 阅读｜weixin｜书源
-  + https://mp.weixin.qq.com/s/3Oy2zs9VHj_8asvSWQ76nQ
+* 阅读｜weixin｜12月书源
+  + https://mp.weixin.qq.com/s/rozSGmjEaQvuM6k-8Z0-TQ
   + haxc大佬的漫画源合集：
   
         https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
   + namofree大佬的书源（通用，精简，比较适合大多数人）：
+      1. 分组名称改为：Namo；
+      2. 新增两个书源，删除失效书源，大部分比较坚挺；
+      3. 本书源适用于3.0版，2.0不保证全部适用；
+      4. 把之前带Namo的分组删除重新导入！
   
         https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
   + 一程大佬的书源合集（通用，精简，比较适合大多数人）：
+      1. 优化部分细节
+      2. 新增大量书源
+      3. 修复失效网站
   
-        https://shuyuan.miaogongzi.net/shuyuan/1635716268.json
-  + 破冰大佬的书源合集（1000+优质书源合集，需复制到浏览器下载后本地导入）：
+        https://shuyuan.miaogongzi.net/shuyuan/1638367786.json
+  + 破冰大佬的书源合集（1000+优质书源合集，需复制到浏览器下载后使用本地导入方式进行导）：
   
         https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
-  + 破冰大佬的听书源合集(需复制到浏览器下载后本地导入)：
+  + 破冰大佬的听书源合集(需复制到浏览器下载后使用本地导入方式进行导入)：
   
         https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
   + 破冰6大佬的笔趣阁书源合集：
@@ -79,6 +89,7 @@ ___
   + 关耳大佬的女频书源合集：
   
         https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
+  + 再次提醒大家，选择1-2位大佬的一直追更就行，没必要全部导入。
 * 阅读｜书源
   + https://github.com/XIU2/Yuedu
   + https://gitee.com/vpq/yd
@@ -161,13 +172,11 @@ ___
 * 异次元｜APP
   * https://yiciyuan.lanzoux.com/b00ej0kba
 * 异次元｜图源
+  * [2021.12.1 有图标大整合源更新](https://mp.weixin.qq.com/s/Kp_FEMCq9WyvukxyoQjsuQ)
+  * [2021.12.2 大整合源更新（无图标修复）](https://mp.weixin.qq.com/s/BcifLAS85mhdqtIpqyx_dw)
+  * https://github.com/wanglabk/hub/tree/c2099
+  * http://yck.mumuceo.com/yiciyuan/tuyuan/index.html
 
-  https://github.com/wanglabk/hub/tree/c2099
-
-  http://yck.mumuceo.com/yiciyuan/tuyuan/index.html
-  ```
-  https://cdn.jsdelivr.net/gh/YuanHsing/freed/漫画｜图源｜2021.10.24有图标大整合源更新.json
-  ```
 ___
 # [WebDav＆数据备份与同步]
 * 授权教程

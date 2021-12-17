@@ -36,13 +36,19 @@
         {
           "name": "独播库",
           "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01TTF6yj2C4PZSVq0eg_!!913168420.png",
-          "url": "https://e.duboku.fun/&&&adsbygoogle,googleapis,ads,google",
+          "url": "http://tv.zdubo.com/&&&adsbygoogle,googleapis,ads,google",
           "type": "app://customWeb"
         },
         {
           "name": "爱迪",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01VEgwOb2C4PZZTpZsn_!!913168420.png",
           "url": "https://aidi.tv/&&&adsbygoogle,googleapis,ads,google",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "厂长",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01VlhZFm2C4PZfSpvXp_!!913168420.png",
+          "url": "https://www.qianoo.cn/&&&adsbygoogle,googleapis,ads,google",
           "type": "app://customWeb"
         }
       ]
